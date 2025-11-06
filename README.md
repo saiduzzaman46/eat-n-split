@@ -4,6 +4,10 @@ A small React application that splits bills with friends.
 This project helped me learn core fundamentals of React such as component state, conditional rendering, controlled inputs and data flow between components.
 
 ---
+## 🔗 Live Demo
+
+👉 [https://your-live-link-here.vercel.app](https://saiduzzaman46.github.io/eat-n-split)
+
 
 ### 🚀 Features
 
