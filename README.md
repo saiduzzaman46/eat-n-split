@@ -6,7 +6,7 @@ This project helped me learn core fundamentals of React such as component state,
 ---
 ## 🔗 Live Demo
 
-👉 [https://your-live-link-here.vercel.app](https://saiduzzaman46.github.io/eat-n-split)
+👉 [EatSplit](https://saiduzzaman46.github.io/eat-n-split)
 
 
 ### 🚀 Features
